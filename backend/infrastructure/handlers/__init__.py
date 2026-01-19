@@ -1,0 +1,4 @@
+from infrastructure.handlers.buildings import buildings_router
+from infrastructure.handlers.organizations import organizations_router
+
+from infrastructure.handlers.main import setup_handlers
