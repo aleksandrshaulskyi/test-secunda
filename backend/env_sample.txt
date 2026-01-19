@@ -1,0 +1,8 @@
+#DB
+POSTGRES_PASSWORD=
+POSTGRES_USER=
+POSTGRES_DB=
+DATABASE_URL=postgresql+psycopg://<username>:<password>@postgresql:5432/<database_name>
+
+#SECURITY
+SECURITY_KEY=
