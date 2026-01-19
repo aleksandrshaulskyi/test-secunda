@@ -9,3 +9,6 @@
 2) ```docker-compose up --build```.
 3) Move dump to a convinient location.
 4) docker exec -i postgresql psql -U ```username``` ```database_name``` < ```dump.sql path```.
+
+## Documentation
+Will be accessible on the standard FastAPI route /docs
